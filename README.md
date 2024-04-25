@@ -9,9 +9,8 @@ Exercise 5 - Assessment Task 5: Bank Customer
 Exercise 6 - Logistic Regression Model
 Exercise 7 - Linear Regression Model
 Exercise 8 - ARIMA MODEL
-Activities
+Activity
+
 Activity 1 - Linear Regression
-Activity 2 - Multiple Linear Regression
-Activity 3 - Sales Data Analysis Report
 Midterm
 Midterm - Midterm Practical Exam using Logistic Regression Model and Linearl Regression Model
